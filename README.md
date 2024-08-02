@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Springboot, Hibernate, React.**
 
-- 👨‍💻 All of my projects are available at [Resume] [https://react-portfolio-lovat-alpha.vercel.app/](https://react-portfolio-lovat-alpha.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://react-portfolio-lovat-alpha.vercel.app/](https://react-portfolio-lovat-alpha.vercel.app/)
 
 - 💬 Ask me about **Full Stack development**
 
 - 📫 How to reach me **nikijha108@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YZf6BRtprXC6jc9hWO8IbNA5UWiLOnfq/view?usp=drive_link](https://drive.google.com/file/d/1YZf6BRtprXC6jc9hWO8IbNA5UWiLOnfq/view?usp=drive_link)
+- 📄 Know about my experiences [Resume][https://drive.google.com/file/d/1YZf6BRtprXC6jc9hWO8IbNA5UWiLOnfq/view?usp=drive_link](https://drive.google.com/file/d/1YZf6BRtprXC6jc9hWO8IbNA5UWiLOnfq/view?usp=drive_link)
 
 - ⚡ Fun fact **I love solving coding challenges in my free time! 💻🎉**
 
