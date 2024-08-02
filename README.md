@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **nikijha108@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1YZf6BRtprXC6jc9hWO8IbNA5UWiLOnfq/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://tinyurl.com/nikitajha-resume)
 
 - ⚡ Fun fact **I love solving coding challenges in my free time! 💻🎉**
 
