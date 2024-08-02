@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Springboot, Hibernate, React.**
 
-- 👨‍💻 All of my projects are available at [https://react-portfolio-lovat-alpha.vercel.app/](https://react-portfolio-lovat-alpha.vercel.app/)
+- 👨‍💻 All of my projects are available at [Resume] [https://react-portfolio-lovat-alpha.vercel.app/](https://react-portfolio-lovat-alpha.vercel.app/)
 
 - 💬 Ask me about **Full Stack development**
 
