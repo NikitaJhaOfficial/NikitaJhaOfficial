@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nikita-jha-182155229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikita-jha-182155229" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/nikijha108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nikijha108" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nikita-jha-182155229" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikita-jha-182155229" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/nikijha108" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nikijha108" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -45,7 +45,7 @@
 </p>
 
 ### 📄 Resume
-- [Download my Resume](https://drive.google.com/file/d/1YZf6BRtprXC6jc9hWO8IbNA5UWiLOnfq/view?usp=sharing)
+- [Download my Resume](https://drive.google.com/file/d/1YZf6BRtprXC6jc9hWO8IbNA5UWiLOnfq/view?usp=drive_link "Download Resume" target="_blank" download)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikiurjew&show_icons=true&locale=en&layout=compact" alt="nikiurjew" /></p>
 
