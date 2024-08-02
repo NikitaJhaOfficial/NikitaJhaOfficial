@@ -45,7 +45,7 @@
 </p>
 
 ### 📄 Resume
-- [Download my Resume]([https://resume-builder-test-new.masaischool.com/resume/public?resumeId=66a29e9d6e6b499ee33306dd](https://drive.google.com/file/d/1YZf6BRtprXC6jc9hWO8IbNA5UWiLOnfq/view?usp=sharing))
+- [Download my Resume](https://drive.google.com/file/d/1YZf6BRtprXC6jc9hWO8IbNA5UWiLOnfq/view?usp=sharing)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikiurjew&show_icons=true&locale=en&layout=compact" alt="nikiurjew" /></p>
 
